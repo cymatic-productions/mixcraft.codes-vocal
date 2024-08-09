@@ -1,1 +1,2 @@
-ERROR: The process "mixcraft.exe.exe" not found.
+ERROR: The process "bash.exe" with PID 12376 could not be terminated.
+Reason: Access is denied.
